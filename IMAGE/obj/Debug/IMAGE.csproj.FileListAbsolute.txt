@@ -1,0 +1,21 @@
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\bin\Debug\IMAGE.exe.config
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\bin\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\bin\Debug\IMAGE.pdb
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\obj\Debug\IMAGE.csprojResolveAssemblyReference.cache
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\obj\Debug\IMAGE.csproj.CoreCompileInputs.cache
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\obj\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\Cours (4)\IMAGE\IMAGE\obj\Debug\IMAGE.pdb
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\bin\Debug\IMAGE.exe.config
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\bin\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\bin\Debug\IMAGE.pdb
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\obj\Debug\IMAGE.csprojResolveAssemblyReference.cache
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\obj\Debug\IMAGE.csproj.CoreCompileInputs.cache
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\obj\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\IMAGE\IMAGE\obj\Debug\IMAGE.pdb
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\bin\Debug\IMAGE.exe.config
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\bin\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\bin\Debug\IMAGE.pdb
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\obj\Debug\IMAGE.csprojResolveAssemblyReference.cache
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\obj\Debug\IMAGE.csproj.CoreCompileInputs.cache
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\obj\Debug\IMAGE.exe
+C:\Users\SELMI Bilal\Desktop\GITHUB\IMAGE_PROJET\IMAGE\IMAGE\obj\Debug\IMAGE.pdb
